@@ -25,7 +25,6 @@
 
 ## 🌎 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://seusite.com)
 
 ---
 
@@ -34,11 +33,6 @@
 - 🎮 Gosto de basquete e jogos eletrônicos  
 - 📚 Estudante de **Ciência da Computação** na Faculdade Descomplica  
 - 🏆 Buscando minha **primeira oportunidade** na área de tecnologia  
-
----
-
-## 🏆 Conquistas no GitHub:
-![trophy](https://github-profile-trophy.vercel.app/?username=gabriel-oliveira&theme=dark)
 
 ---
 
