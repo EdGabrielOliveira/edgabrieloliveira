@@ -28,11 +28,6 @@
 
 ---
 
-## 🏆 Conquistas no GitHub:
-![trophy](https://github-profile-trophy.vercel.app/?username=edgabrieloliveira&theme=dark)
-
----
-
 ## 🎯 Sobre mim:
 - 🚀 Apaixonado por tecnologia e desenvolvimento web  
 - 🎮 Gosto de basquete e jogos eletrônicos  
