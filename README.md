@@ -24,7 +24,12 @@
 ---
 
 ## 🌎 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgabrieloliveira/)
+
+---
+
+## 🏆 Conquistas no GitHub:
+![trophy](https://github-profile-trophy.vercel.app/?username=edgabrieloliveira&theme=dark)
 
 ---
 
