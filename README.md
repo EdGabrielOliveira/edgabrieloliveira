@@ -46,28 +46,6 @@ Também sou **Co-Fundador da [G3G Labs](https://www.g3glabs.com.br)**, onde part
 
 </div>
 
-### ⚙️ Back-end & DevOps
-
-<div align="left">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdGabrielOliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdGabrielOliveira&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
