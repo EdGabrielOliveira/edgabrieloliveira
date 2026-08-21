@@ -56,18 +56,6 @@ Também sou **Co-Fundador da [G3G Labs](https://www.g3glabs.com.br)**, onde part
 
 </div>
 
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdGabrielOliveira&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏢 G3G Labs
 
 <div align="center">
