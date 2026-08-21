@@ -1,38 +1,103 @@
-# Olá! Eu sou o Gabriel Oliveira 👋
+# 👋 Olá, eu sou Gabriel Oliveira
 
-💻 Desenvolvedor Front-end | React | TypeScript  
-🚀 Criando projetos incríveis e buscando minha primeira oportunidade de trabalho.  
-📍 Rio Grande do Norte - Brasil
+### Front-end Developer | Co-Founder @ G3G Labs
 
----
+Desenvolvedor **Front-end** focado na criação de aplicações web modernas, responsivas e funcionais.
 
-## 🚀 Tecnologias que utilizo:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](	https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+Também sou **Co-Fundador da [G3G Labs](https://www.g3glabs.com.br)**, onde participo do desenvolvimento de soluções digitais, sistemas e produtos web.
 
 ---
 
-## 📊 Estatísticas do GitHub:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGabrielOliveira&layout=compact&theme=dark)
+## 🚀 Sobre mim
+
+* 💻 Atuo profissionalmente como **Desenvolvedor Front-end**
+* 🚀 **Co-Founder @ G3G Labs**
+* 🌐 [g3glabs.com.br](https://www.g3glabs.com.br)
+* ⚡ Desenvolvimento de aplicações e sistemas web
+* 🧠 Interesse em **Full Stack, arquitetura de software e produtos digitais**
+* 📚 Sempre buscando evoluir e aprender novas tecnologias
 
 ---
 
-## 🌎 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgabrieloliveira/)
+## 🛠️ Tecnologias
+
+<div align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Sobre mim:
-- 🚀 Apaixonado por tecnologia e desenvolvimento web  
-- 🎮 Gosto de basquete e jogos eletrônicos  
-- 📚 Estudante de **Ciência da Computação** na Faculdade Descomplica  
-- 🏆 Buscando minha **primeira oportunidade** na área de tecnologia  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdGabrielOliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdGabrielOliveira&layout=compact&langs_count=8&theme=github_dark"/>
+
+</div>
 
 ---
 
-> 🔥 Sempre aprendendo e evoluindo! Vamos conectar? 🚀
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=EdGabrielOliveira&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdGabrielOliveira&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏢 G3G Labs
+
+<div align="center">
+
+### Tecnologia transformando ideias em soluções.
+
+Sou **Co-Fundador da G3G Labs**, participando do desenvolvimento de sistemas, aplicações web e soluções digitais.
+
+🌐 **[www.g3glabs.com.br](https://www.g3glabs.com.br)**
+
+</div>
+
+---
+
+## 🔗 Links
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-EdGabrielOliveira-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EdGabrielOliveira)
+
+[![G3G Labs](https://img.shields.io/badge/G3G_Labs-Website-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.g3glabs.com.br)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Construindo soluções. Evoluindo através da tecnologia. 🚀
+
+</div>
